@@ -2,4 +2,5 @@
 
 1. Analog clock using simple CSS and Javascript
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img src="https://github.com/shreejaverma/Javascript/blob/main/clock/Clock.png" alt="image" width="50%" height="50%">
+
